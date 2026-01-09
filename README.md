@@ -31,7 +31,7 @@ Uma Single Page Application (SPA) responsiva para explorar raças de cães, dese
 Clone o repositório:
 
 ```bash
-git clone [https://github.com/Tiegow/Dog-Wiki.git](https://github.com/Tiegow/Dog-Wiki.git)
+git clone [https://github.com/Tiegow/Dog-Wiki.git](https://github.com/Tiegow/Dog-Wiki-REACT.git)
 ```
 Entre na pasta:
 
